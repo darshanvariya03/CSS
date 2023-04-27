@@ -1,0 +1,25 @@
+span{
+	color:blue;
+	font-size:40px; 
+}
+p{
+	font-size:35px;
+	font-family:Arial;
+	font-weight:600;
+	letter-spacing:3px;
+	word-spacing:5px;
+	line-height:50px;
+	text-decoration:none;
+	text-transform:capitalize;
+	text-indent:100px;
+	text-align:justify;
+	background-color:black;
+	font-style:italic;
+}
+.dars{
+	color:yellow;
+	font-size:35px;
+	font-family:Arial;
+	font-weight:600;
+	letter-spacing:3px;
+}
